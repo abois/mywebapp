@@ -1,4 +1,4 @@
 mywebapp
 ========
 
-Ma super applicztion web
+Ma super application web
